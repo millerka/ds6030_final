@@ -1,0 +1,5 @@
+.metric,.estimator,mean,n,std_err,Model,Kernel,Weighting
+f_meas,macro,0.5733096755991647,5,0.003251836935105902,poly_weighted,poly,weighted
+pr_auc,macro,0.5908279657311983,5,0.0019120487049187527,poly_weighted,poly,weighted
+qwk,multiclass,0.47756656367872924,5,0.006563174510588677,poly_weighted,poly,weighted
+roc_auc,hand_till,0.8004236319173561,5,0.0015046087228857395,poly_weighted,poly,weighted

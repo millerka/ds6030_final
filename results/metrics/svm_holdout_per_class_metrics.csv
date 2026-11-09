@@ -1,0 +1,13 @@
+.metric,.estimator,.estimate,Class,n,Model,Kernel,Weighting
+precision,binary,0.6652783036728512,high,17522,poly_weighted,poly,weighted
+recall,binary,0.5013697066544915,high,17522,poly_weighted,poly,weighted
+f_meas,binary,0.5718098089628014,high,17522,poly_weighted,poly,weighted
+roc_auc,binary,0.7742215820681927,high,17522,poly_weighted,poly,weighted
+precision,binary,0.6673485127929982,medium,29649,poly_weighted,poly,weighted
+recall,binary,0.6712199399642483,medium,29649,poly_weighted,poly,weighted
+f_meas,binary,0.6692786278796031,medium,29649,poly_weighted,poly,weighted
+roc_auc,binary,0.6203820962229727,medium,29649,poly_weighted,poly,weighted
+precision,binary,0.31401869158878504,low,4950,poly_weighted,poly,weighted
+recall,binary,0.576969696969697,low,4950,poly_weighted,poly,weighted
+f_meas,binary,0.40669277322890707,low,4950,poly_weighted,poly,weighted
+roc_auc,binary,0.8724275551084395,low,4950,poly_weighted,poly,weighted
